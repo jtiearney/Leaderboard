@@ -1,0 +1,10 @@
+click==6.6
+decorator==4.0.9
+Flask==0.11
+gunicorn==19.6.0
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+oboe==1.5.10
+redis==2.10.5
+Werkzeug==0.11.10
